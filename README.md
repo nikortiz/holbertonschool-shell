@@ -1,1 +1,1 @@
-this repository contains basic shell scripts.
+contains basic shell scripts
